@@ -1,0 +1,59 @@
+[
+  {
+    "role": "Lead Electrical & ELV Engineer",
+    "organisation": "EGIS Group",
+    "startDate": "Nov, 2021",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/egis_logo.jpg"
+  },
+  {
+    "role": "Senior Electrical Engineer",
+    "organisation": "Dar International Engineering",
+    "startDate": "Oct, 2019",
+    "endDate": "Nov, 2021",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/dar.jpeg"
+  },
+  {
+    "role": "Senior Electrical Engineer",
+    "organisation": "Hill International ",
+    "startDate": "Apr, 2018",
+    "endDate": "Oct, 2019",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/hill.png"
+  },{
+    "role": "Electrical Engineer",
+    "organisation": "Proger Engineering and Management",
+    "startDate": "Jan, 2015",
+    "endDate": "Mar, 2018",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/proger.png"
+  },{
+    "role": "Electrical Engineer",
+    "organisation": "Pal Group of Companies L.L.C",
+    "startDate": "Oct, 2012",
+    "endDate": "Dec, 2014",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/pal.jpeg"
+  },{
+    "role": "E and I Engineer",
+    "organisation": "Al Husam General Contracting L.L.C",
+    "startDate": "Sep, 2005",
+    "endDate": "Aug, 2008",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/alhusam.jpeg"
+  }
+]
