@@ -4,17 +4,27 @@
     "imageSrc": "projects/project.png",
     "description": "SEVEN, in Riyadh's Al Hamra neighborhood, spans 90,000 m² of land and 167,000 m² of built-up area, offering exceptional entertainment destinations",
     "explanation": "Project Details:\n1. Transformers Experience: Immerse yourself in state-of-the-art rides set in the action-packed Transformers universe.\n2. Indoor Hubless Wheel: Enjoy panoramic, 360° views from a thrilling 22-meter-high ride.\n3. Discovery Adventures: Explore indoor adventure centers that seamlessly integrate Discovery's media content, blending learning and fun.\n4. Indoor Surf Experience: Partnered with Flowhouse, offering indoor surfing with a sleek dining experience.\n5. Clip ‘n Climb: Enjoy exhilarating climbing experiences suitable for all ages.\n6. Bowling: Engage in competitive bowling with advanced technology, featuring an Avatar in-game attraction and a unique F&B menu.\n7. E-Karting: Experience exciting e-karting on specially designed tracks for all age groups.\n8. AMC Cinema: A luxurious cinema experience that brings you closer to the action, going beyond the screen.\n9. Multi-purpose Venue: A versatile space for events and live shows, equipped with cutting-edge technologies.",
-    "skills": ["BIM Project Design", "Electrical Power & Lighting Analysis","Show Lighting & Control","Electrical & ICT Integration"],
+    "skills": [
+      "BIM Project Design",
+      "Electrical Power & Lighting Analysis",
+      "Show Lighting & Control",
+      "Electrical & ICT Integration"
+    ],
     "demo": "https://www.example.com",
     "source": "https://seven.sa/entertainment-destinations/al-hamra/"
   },
-  
+
   {
     "title": "Al Salam Hospital ",
     "imageSrc": "projects/project.png",
     "description": "Al Salam Hospital, one of the largest private hospitals in Saudi Arabia, spans 100,000 SQM and features 110 clinics with 24/7 emergency services, serving the Eastern Province with a team of skilled professionals.",
     "explanation": "The Al Salam Hospital project involved the design and development of electrical systems in full compliance with the Ministry of Health (MOH) standards, ensuring safety, reliability, and operational efficiency. The project included engineering robust power distribution networks, incorporating Medium Voltage (MV) and Low Voltage (LV) systems, and designing uninterruptible power supply (UPS) systems, backup generators, and automatic transfer switches (ATS) for continuous power to life-supporting medical equipment. Specialized lighting solutions were created for surgical, patient room, and emergency lighting needs, all while ensuring compliance with MOH and international standards. In addition, fire alarm systems, emergency voice evacuation, and centralized battery systems were integrated to enhance safety. Extra Low Voltage (ELV) systems such as nurse call, CCTV, and access control were designed to strengthen hospital security, and intelligent ICT networks, including Building Management Systems (BMS) and medical equipment interfaces, were implemented for improved energy efficiency and real-time monitoring.",
-    "skills": ["Healthcare Electrical Design Compliance", "Power Distribution & Backup Systems", "Lighting & Emergency Systems","ELV & ICT Systems for Smart Healthcare"],
+    "skills": [
+      "Healthcare Electrical Design Compliance",
+      "Power Distribution & Backup Systems",
+      "Lighting & Emergency Systems",
+      "ELV & ICT Systems for Smart Healthcare"
+    ],
     "demo": "https://www.example.com",
     "source": "https://alsalamhospital.com.sa/en/about"
   },
@@ -23,15 +33,26 @@
     "imageSrc": "projects/project.png",
     "description": "Emaar Crescent Bay is a mixed-use oceanfront development in Karachi with residential towers, a shopping center, a hotel, and 4,000 apartments.",
     "explanation": "Emaar Crescent Bay is a mixed-use, oceanfront development in Karachi, Pakistan, developed by Emaar and Giga Group. The project features seven 25-floor residential and commercial towers, a shopping center, a five-star hotel, and approximately 4,000 residential apartments, all located on reclaimed land.",
-    "skills": ["BIM & Revit MEP Integration", "Lighting & Smart Building Solutions", "High-Rise Electrical Infrastructure Design","ELV & Security Systems Implementation"],
+    "skills": [
+      "BIM & Revit MEP Integration",
+      "Lighting & Smart Building Solutions",
+      "High-Rise Electrical Infrastructure Design",
+      "ELV & Security Systems Implementation"
+    ],
     "demo": "https://www.example.com",
     "source": "https://pk.emaar.com/en/"
-  }, {
+  },
+  {
     "title": "The SWCC West Coast Satellite RO ",
     "imageSrc": "projects/project.png",
     "description": "The SWCC West Coast Satellite RO Plants project installs three 50,000 m³/d floating desalination plants in the Red Sea to support Jazan and Asir.",
     "explanation": "The RO Plants project involves setting up three 50,000 m³/d floating desalination plants in the Red Sea. These plants are designed to be mobile and supplement existing coastal RO plants as needed, particularly for the Jazan and Asir provinces.",
-    "skills": ["Harmonics & Power Quality Management", "Instrumentation & Process Control", "DCS & SCADA-Based Control Systems","Industrial Power Distribution & MV Systems"],
+    "skills": [
+      "Harmonics & Power Quality Management",
+      "Instrumentation & Process Control",
+      "DCS & SCADA-Based Control Systems",
+      "Industrial Power Distribution & MV Systems"
+    ],
     "demo": "https://www.example.com",
     "source": "https://www.swcc.gov.sa/en"
   }

@@ -1,5 +1,6 @@
 import React from "react";
-
+import emailIcon from "../../../assets/contact/emailIcon.png";
+import linkdin from "../../../assets/contact/linkedinIcon.png";
 import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -12,17 +13,15 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
+          <img src={emailIcon} alt="Email icon" />
           <a href="mailto:waqarkhtk@gmail.com">waqarkhtk@gmail.com</a>
         </li>
         <li className={styles.link}>
-          <img
-            src={getImageUrl("contact/linkedinIcon.png")}
-            alt="LinkedIn icon"
-          />
-          <a href="https://www.linkedin.com/in/waqarkhtk">linkedin.com/Waqar Ali Khan</a>
+          <img src={linkdin} alt="LinkedIn icon" />
+          <a href="https://www.linkedin.com/in/waqarkhtk">
+            linkedin.com/Waqar Ali Khan
+          </a>
         </li>
-    
       </ul>
     </footer>
   );
