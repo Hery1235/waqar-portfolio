@@ -18,7 +18,6 @@ export const About = () => {
             {/* <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" /> */}
             <div className={styles.aboutItemText}>
               <h3>Design of Distribution (LV and MV) system for buildings</h3>
-              
             </div>
           </li>
           <li className={styles.aboutItem}>
@@ -44,7 +43,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             {/* <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" /> */}
             <div className={styles.aboutItemText}>
-              <h3>Lighting Design and Design software's DISIGO</h3>
+              <h3>Lighting Design and Design software's </h3>
               {/* <p>
                 I have experience developing fast and optimised back-end systems
                 and APIs
