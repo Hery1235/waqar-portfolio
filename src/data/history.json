@@ -5,10 +5,9 @@
     "startDate": "Nov, 2021",
     "endDate": "Present",
     "experiences": [
-      "BIM & Digital Twin Integration",
-      "Project Leadership & Compliance",
-      "ELV & Smart Systems",
-      "Testing & Commissioning"
+      "Project Leadership & Compliance:\n Lead electrical design and supervision for high-profile projects, ensuring compliance with SEC, NEC, and IEC standards.",
+      "BIM & Digital Twin Integration: Utilize Revit MEP, BIM 360, and ETAP Digital Twin modeling for power system optimization.\nELV & Smart Systems: Oversee ICT, BMS, access control, and entertainment lighting (DMX, DALI, IoT) to enhance building intelligence.",
+      "Testing & Commissioning: Supervise factory acceptance tests (FAT), electrical installation inspections, and commissioning of high-voltage and LV systems"
     ],
     "imageSrc": "/history/egis_logo.jpg"
   },
@@ -18,10 +17,11 @@
     "startDate": "Oct, 2019",
     "endDate": "Nov, 2021",
     "experiences": [
-      "Large-Scale Project Execution",
-      "Protection & Control",
-      "Supervision & Quality Control",
-      "Emergency Power Systems"
+      "Concept & Detailed Design: Developed electrical layouts for infrastructure, substations, and high-rise buildings with advanced load flow analysis.",
+      "Regulatory Approvals: Liaised with local authorities (SEC, SBC, NFPA) to secure project compliance and approvals.",
+      "Data Center Expertise: Designed redundant electrical networks for Tier 3 & Tier 4 data centers, ensuring uptime and efficiency.",
+      "Emergency Power Systems.",
+      "Infrastructure Works: Supervised MV cable installations, substations, and smart street lighting solutions."
     ],
     "imageSrc": "history/dar.jpeg"
   },
@@ -31,9 +31,11 @@
     "startDate": "Apr, 2018",
     "endDate": "Oct, 2019",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Large-Scale Project Execution: Delivered complex power distribution projects for commercial and industrial developments.\nProtection & Control: Designed and tested relay settings, SCADA integration, and fault coordination for power grids.",
+      "Supervision & Quality Control: Led site inspections, material approvals, and contractor coordination for seamless execution",
+      "Emergency Power Systems: Engineered UPS, battery banks, and backup generator integration for mission-critical facilities"
     ],
+
     "imageSrc": "history/hill.png"
   },
   {
@@ -42,10 +44,10 @@
     "startDate": "Jan, 2015",
     "endDate": "Mar, 2018",
     "experiences": [
-      "Design & Supervision",
-      "Lighting & Façade Systems",
-      "Power Studies",
-      "MEP Coordination"
+      "Design & Supervision: Managed LV, MV, and HV system design for hospitality, commercial, and infrastructure projects.",
+      "Lighting & Façade Systems: Delivered luxury hotel and high-rise façade lighting solutions with advanced control systems.",
+      "Power Studies: Conducted short-circuit, voltage drop, and arc flash analysis using ETAP.",
+      "MEP Coordination: Ensured seamless integration of electrical systems with HVAC, plumbing, and firefighting."
     ],
     "imageSrc": "history/proger.png"
   },
@@ -55,10 +57,10 @@
     "startDate": "Oct, 2012",
     "endDate": "Dec, 2014",
     "experiences": [
-      "Substation Design & Testing",
-      "Fire & Life Safety Systems",
-      "Renewable Integration",
-      "Airport & Military Infrastructure"
+      "Substation Design & Testing: Engineered 132kV/33kV substations with relay coordination and SCADA monitoring.",
+      "Fire & Life Safety Systems: Implemented fire alarm, emergency lighting, and evacuation control systems in compliance with NFPA standards.",
+      "Renewable Integration: Designed hybrid power solutions integrating solar energy into grid networks.",
+      "Airport & Military Infrastructure: Supervised power distribution for airbase development and defense installations."
     ],
     "imageSrc": "history/pal.jpeg"
   },
@@ -68,10 +70,10 @@
     "startDate": "Sep, 2005",
     "endDate": "Aug, 2008",
     "experiences": [
-      "Instrumentation & Control",
-      "Process Plant Electrification",
-      "Testing & Calibration",
-      "Hazardous Area Compliance"
+      "Instrumentation & Control: Reviewed P&ID, loop drawings, and PLC programming for industrial automation.",
+      "Process Plant Electrification: Executed power distribution for desalination plants, HVAC control, and pumping stations.",
+      "Testing & Calibration: Conducted HART and manual calibration of sensors and transducers",
+      "Hazardous Area Compliance: Ensured ATEX and IECEx compliance for explosive environment installations."
     ],
     "imageSrc": "history/alhusam.jpeg"
   }
