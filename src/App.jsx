@@ -3,6 +3,7 @@ import { About } from "./components/About/About";
 import { Contact } from "./components/Contact/Contact";
 import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
+import { JobResponsibilities } from "./components/JobResponsibilities/JobResponsibilities";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <JobResponsibilities />
       <Experience />
       <Projects />
       <Contact />
